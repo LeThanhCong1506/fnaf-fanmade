@@ -1,0 +1,3 @@
+﻿người chơi khi nào thường mặc định sẽ ngồi yên, nhưng có nút cho phép di chuyển để nấp hoặc thực hiện các công việc khác như tìm đồ vật vv.
+có thể làm phần multiplayer quái vật đuổi người chơi
+khi tiến gần tới cổng thì sẽ có một cutscene giết người chơi
