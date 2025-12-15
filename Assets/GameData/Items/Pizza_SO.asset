@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bad04332ab202e5478e6866f3c05bd91, type: 3}
+  m_Name: Pizza_SO
+  m_EditorClassIdentifier: 
+  id: pizza_slice
+  itemName: Pizza Slice
+  icon: {fileID: 21300000, guid: ca819424d8fbc8341bd5ee079bc0a956, type: 3}
+  prefab: {fileID: 8614706521544066661, guid: d6d58d17397e53a45bacfd62a74b42c2, type: 3}
+  isStackable: 1
+  description: A stale slice of pepperoni pizza. Still looks tasty though.
