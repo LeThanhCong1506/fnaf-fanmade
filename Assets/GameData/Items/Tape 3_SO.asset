@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0c2e7fd66b689248aae73d972df823b, type: 3}
+  m_Name: Tape 3_SO
+  m_EditorClassIdentifier: 
+  id: Tape_03
+  itemName: Tape number 3
+  icon: {fileID: 21300000, guid: be068d3514ce8364393942e7e0a5da14, type: 3}
+  prefab: {fileID: 5404404266790923792, guid: 627298b6c408ed940a0587687f8ce20e, type: 3}
+  isStackable: 0
+  description: Tape 3 using tape3-fnaf sound
+  recording: {fileID: 8300000, guid: 033f4622ca6d7614e8d4586728b4535c, type: 3}
