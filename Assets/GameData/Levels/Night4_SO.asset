@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31a3522cf00110a4da2d6897df938028, type: 3}
+  m_Name: Night4_SO
+  m_EditorClassIdentifier: 
+  nightIndex: 4
+  tapesRequired: 2
+  tapesToSpawn:
+  - {fileID: 1044078463260887235, guid: 6b0d32c71cdedb64ca6177a1ed30aaae, type: 3}
+  - {fileID: 131578805719098892, guid: acbc11eb9a5ca3d4ea76ea4e5c88f7ce, type: 3}
