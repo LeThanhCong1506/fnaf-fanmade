@@ -18,4 +18,25 @@ MonoBehaviour:
   prefab: {fileID: 7887651453914578354, guid: 9b4831662ddb63b4ca48a3943068e3cd, type: 3}
   isStackable: 1
   description: Tape 1 using tape1-fnaf sound
-  recording: {fileID: 8300000, guid: 52e8590f052346d40a58bbfd7cb00607, type: 3}
+  recording: {fileID: 8300000, guid: 6a9d47579a2d25a4095977f3498395f5, type: 3}
+  subtitles:
+  - text: "Hey there. If you\u2019re listening to this, you\u2019re the new guy.
+      Welcome to the family."
+    duration: 4.5
+  - text: "My name\u2019s John. I figured I\u2019d leave these logs to help you out..."
+    duration: 4
+  - text: ...since the manager... well, he doesn't tell you much.
+    duration: 3.5
+  - text: 'Rule number one: Don''t touch the animatronics. They look cute, but the
+      joints are sharp.'
+    duration: 7.5
+  - text: 'Rule number two: Keep the music box wound up in the Prize Corner, it keeps
+      the system... stable.'
+    duration: 8
+  - text: It's not a bad job, really. Lots of free pizza.
+    duration: 3.5
+  - text: "Speaking of which... I\u2019m starving. I\u2019m gonna head to the <color=yellow>Kitchen</color>
+      to grab a slice."
+    duration: 7
+  - text: I'll record the next part there. Over and out.
+    duration: 3.5

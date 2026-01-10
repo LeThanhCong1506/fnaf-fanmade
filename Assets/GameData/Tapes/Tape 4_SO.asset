@@ -18,4 +18,19 @@ MonoBehaviour:
   prefab: {fileID: 1044078463260887235, guid: 6b0d32c71cdedb64ca6177a1ed30aaae, type: 3}
   isStackable: 0
   description: Tape 4 using tape4-fnaf sound
-  recording: {fileID: 8300000, guid: 2eba77a6f5437164db15c38fd2a16812, type: 3}
+  recording: {fileID: 8300000, guid: 568c17852d455b44cad8204215aadeda, type: 3}
+  subtitles:
+  - text: "Oh god... the smell. You can\u2019t smell it on the tape, but it\u2019s...
+      it\u2019s like meat."
+    duration: 7.5
+  - text: "Rotting meat. It\u2019s coming from the spare suits."
+    duration: 4.5
+  - text: "I looked inside one of them. There\u2019s... there\u2019s hair. And...
+      fluids."
+    duration: 8.5
+  - text: This isn't oil. This is blood.
+    duration: 3.5
+  - text: What was that? It came from the Carousel.
+    duration: 4
+  - text: I have to go look. I have to know what's moving out there.
+    duration: 5

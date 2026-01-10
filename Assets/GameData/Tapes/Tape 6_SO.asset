@@ -18,4 +18,19 @@ MonoBehaviour:
   prefab: {fileID: 3133140033635954643, guid: 70a25008dd999a248aab6d7d91526604, type: 3}
   isStackable: 0
   description: Tape 6 using tape6-fnaf sound
-  recording: {fileID: 8300000, guid: 719ecde46719ce9498643eb40ca125e9, type: 3}
+  recording: {fileID: 8300000, guid: e98664452dcb25c4ba60f36e680317a5, type: 3}
+  subtitles:
+  - text: It didn't work. The breaker is smashed. They knew.
+    duration: 6.5
+  - text: They knew I was coming down here. They are smart.
+    duration: 4.5
+  - text: I can hear them on the stairs. They are blocking the way back to the office.
+    duration: 6
+  - text: "I\u2019m not gonna make it out tonight. I\u2019m sorry, Mom. I\u2019m
+      so sorry."
+    duration: 7
+  - text: Wait... The emergency exit. In the main lobby.
+    duration: 4.5
+  - text: I left the last tape there. By the Exit Door of the Storage Room. If you
+      find this... run. Just run!
+    duration: 10.5

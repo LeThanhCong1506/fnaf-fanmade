@@ -18,4 +18,18 @@ MonoBehaviour:
   prefab: {fileID: 8139873246051273180, guid: c48167ac74d6d9141a70764973187f36, type: 3}
   isStackable: 0
   description: Tape 2 using tape2-fnaf sound
-  recording: {fileID: 8300000, guid: ee0dfa0e6224fab4394018ccfa33a703, type: 3}
+  recording: {fileID: 8300000, guid: 41f1e870c779bcc48b94530b9ec3a4a1, type: 3}
+  subtitles:
+  - text: "Okay... this is weird. I\u2019m in the Kitchen. The pizza is great, but...
+      do you hear that?"
+    duration: 9.5
+  - text: It sounds like... scratching. Inside the walls.
+    duration: 5.5
+  - text: I thought it was rats at first. But rats don't sound that... heavy.
+    duration: 6.5
+  - text: "It\u2019s probably just the pipes. Old buildings make noises, right?"
+    duration: 5
+  - text: Anyway, I drank too much soda. Gonna head to the Restrooms.
+    duration: 4.5
+  - text: If you find this tape next to the oven, check the men's room next.
+    duration: 4.5

@@ -18,4 +18,20 @@ MonoBehaviour:
   prefab: {fileID: 5404404266790923792, guid: 627298b6c408ed940a0587687f8ce20e, type: 3}
   isStackable: 0
   description: Tape 3 using tape3-fnaf sound
-  recording: {fileID: 8300000, guid: 033f4622ca6d7614e8d4586728b4535c, type: 3}
+  recording: {fileID: 8300000, guid: 7308f65b585f23641bc0c6e646b131e5, type: 3}
+  subtitles:
+  - text: I saw something. In the mirror. When I was washing my hands... I saw the
+      Bear.
+    duration: 7
+  - text: Standing right behind me.
+    duration: 1.5
+  - text: But when I turned around... nothing. Just an empty stall.
+    duration: 5
+  - text: I... I must be tired. The flickering lights are messing with my head.
+    duration: 5.5
+  - text: I need to check the animatronics. Make sure they are actually on their
+      stage.
+    duration: 5.5
+  - text: "I\u2019m going to Backstage storage. I think I left my flashlight there
+      anyway."
+    duration: 5.5

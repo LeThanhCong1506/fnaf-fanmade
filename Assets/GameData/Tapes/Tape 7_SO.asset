@@ -18,4 +18,30 @@ MonoBehaviour:
   prefab: {fileID: 7016256214967771237, guid: 7cd650a900171ec4ebc90bfda7ee4b8f, type: 3}
   isStackable: 0
   description: Tape 7 using tape7-fnaf sound
-  recording: {fileID: 8300000, guid: 6fc7fdf65d122c543929dbc7cd46a716, type: 3}
+  recording: {fileID: 8300000, guid: 6ff6a8a5e4ff3ec41b8fe80953415b65, type: 3}
+  subtitles:
+  - text: Is... is it recording? ... Good.
+    duration: 5.5
+  - text: If you found this ... then I didn't make it.
+    duration: 5
+  - text: "I crawled all the way to the door... but... my leg... I can't feel my
+      legs anymore. It\u2019s so cold. "
+    duration: 8.5
+  - text: Listen to me. Don't make the same mistake. You can't run from them.
+    duration: 7
+  - text: You have to... you have to end it.
+    duration: 4.5
+  - text: Fire. It's the only way. They... they scream when they burn. I heard it.
+    duration: 8.5
+  - text: 'The gasoline... I dragged it with me. '
+    duration: 4.5
+  - text: "It\u2019s right here... hidden behind the fake plant... next to the door.
+      Grab it!"
+    duration: 5.5
+  - text: Don't worry about me. I'm already gone. Just... burn this place to the
+      ground.
+    duration: 7.5
+  - text: Burn it... for me...
+    duration: 4
+  - text: Make... them... pay...
+    duration: 5
