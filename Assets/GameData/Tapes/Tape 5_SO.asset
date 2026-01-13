@@ -18,18 +18,27 @@ MonoBehaviour:
   prefab: {fileID: 131578805719098892, guid: acbc11eb9a5ca3d4ea76ea4e5c88f7ce, type: 3}
   isStackable: 0
   description: Tape 5 using tape5-fnaf sound
-  recording: {fileID: 8300000, guid: 0a7adafba59269b43b948744a85062ee, type: 3}
+  recording: {fileID: 8300000, guid: a96054ee9dafb22439126e83b30e5465, type: 3}
   subtitles:
-  - text: They are alive! They are not robots! I saw the Bunny... it looked at me!
-    duration: 5.5
-  - text: It... it smiled! Not a mechanical smile... a real one!
-    duration: 5
-  - text: It chased me through the hallway. I barely made it out.
-    duration: 3.5
-  - text: The doors won't hold them forever. The power is draining too fast!
+  - text: They are alive! They are not robots! I was doing my rounds in the Main
+      Hall... checking the party tables.
+    duration: 7.5
+  - text: That's when I saw the Bunny. It looked at me! It smiled! Not a mechanical
+      smile... a real one!
+    duration: 8
+  - text: I panicked. I tripped over a chair near the stage. I think my red master
+      key slid under the tables... but I couldn't stop!
+    duration: 10.5
+  - text: I just ran! It chased me down the corridor.
     duration: 4
-  - text: I need to cut the main breaker. Maybe if I kill the power completely, they
-      will shut down.
+  - text: I tried to hide in the Ladies' Restroom to lock the door... but my hands
+      were shaking so bad!
+    duration: 7
+  - text: I dropped the yellow maintenance key right by the sinks. I didn't pick
+      it up. I just kept running.
+    duration: 7
+  - text: "The doors won't hold them forever. The power is draining too fast!\t"
     duration: 5
-  - text: "I\u2019m going to the Storage Room. God help me."
-    duration: 3.5
+  - text: "I need to cut the main breaker. I\u2019m going to the Storage Room. God
+      help me."
+    duration: 7
