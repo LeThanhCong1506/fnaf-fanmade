@@ -13,8 +13,4 @@ MonoBehaviour:
   m_Name: Night5_SO
   m_EditorClassIdentifier: 
   nightIndex: 5
-  tapesRequired: 3
-  tapesToSpawn:
-  - {fileID: 3133140033635954643, guid: 70a25008dd999a248aab6d7d91526604, type: 3}
-  - {fileID: 3317715813705735712, guid: 5840323df71c7084e9415a5b3471fc0b, type: 3}
-  - {fileID: 7016256214967771237, guid: 7cd650a900171ec4ebc90bfda7ee4b8f, type: 3}
+  tapesRequired: 8
