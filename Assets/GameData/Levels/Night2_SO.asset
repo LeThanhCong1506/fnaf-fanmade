@@ -13,6 +13,4 @@ MonoBehaviour:
   m_Name: Night2_SO
   m_EditorClassIdentifier: 
   nightIndex: 2
-  tapesRequired: 1
-  tapesToSpawn:
-  - {fileID: 7887651453914578354, guid: 9b4831662ddb63b4ca48a3943068e3cd, type: 3}
+  tapesRequired: 8

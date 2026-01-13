@@ -13,5 +13,4 @@ MonoBehaviour:
   m_Name: Night1_SO
   m_EditorClassIdentifier: 
   nightIndex: 1
-  tapesRequired: 0
-  tapesToSpawn: []
+  tapesRequired: 8
