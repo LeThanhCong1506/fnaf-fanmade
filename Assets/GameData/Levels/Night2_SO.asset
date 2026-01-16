@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Night2_SO
   m_EditorClassIdentifier: 
   nightIndex: 2
-  tapesRequired: 8
-  enemyRevivalHour: 4
+  tapesRequired: 7
+  enemyRevivalHour: 5
