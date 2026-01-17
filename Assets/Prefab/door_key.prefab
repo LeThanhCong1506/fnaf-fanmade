@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 1539077726510196832}
   - component: {fileID: 2518704736418670533}
   - component: {fileID: 365015686013309711}
-  - component: {fileID: 1355968818562092941}
   - component: {fileID: 1355968818562093043}
   - component: {fileID: 8693072174817671156}
   m_Layer: 6
@@ -29,9 +28,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2166292603260859098}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.57196665, y: -0.41575718, z: -0.41575697, w: 0.571967}
+  m_LocalRotation: {x: -0.57196707, y: -0.41575676, z: -0.41575676, w: 0.57196707}
   m_LocalPosition: {x: -46.538, y: 15.6523, z: 8.951}
-  m_LocalScale: {x: 19.564, y: 19.564, z: 19.564}
+  m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -89,33 +88,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!54 &1355968818562092941
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2166292603260859098}
-  serializedVersion: 4
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_CenterOfMass: {x: 0, y: 0, z: 0}
-  m_InertiaTensor: {x: 1, y: 1, z: 1}
-  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ImplicitCom: 1
-  m_ImplicitTensor: 1
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!65 &1355968818562093043
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -135,8 +107,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.02102049, y: 0.016047873, z: 0.007619306}
-  m_Center: {x: -0.0013757936, y: 0.0021803924, z: 0.0035250229}
+  m_Size: {x: 0.008544628, y: 0.014010079, z: 0.004957261}
+  m_Center: {x: -0.0004797352, y: 0.0011614981, z: 0.0008092888}
 --- !u!114 &8693072174817671156
 MonoBehaviour:
   m_ObjectHideFlags: 0

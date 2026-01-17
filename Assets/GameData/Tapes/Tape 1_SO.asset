@@ -35,7 +35,7 @@ MonoBehaviour:
     duration: 8
   - text: It's not a bad job, really. Lots of free pizza.
     duration: 3.5
-  - text: "Speaking of which... I\u2019m starving. I\u2019m gonna head to the <color=yellow>Kitchen</color>
+  - text: "Speaking of which... I\u2019m starving. I\u2019m gonna head to the <b><color=yellow>Kitchen</color></b>
       to grab a slice."
     duration: 7
   - text: I'll record the next part there. Over and out.
