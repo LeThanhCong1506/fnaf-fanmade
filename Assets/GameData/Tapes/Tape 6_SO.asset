@@ -31,6 +31,6 @@ MonoBehaviour:
     duration: 7
   - text: Wait... The emergency exit. In the main lobby.
     duration: 4.5
-  - text: I left the last tape there. By the Exit Door of the Storage Room. If you
-      find this... run. Just run!
+  - text: I left the last tape there. By the <b><color=yellow>Exit Door of the Storage
+      Room</color></b>. If you find this... run. Just run!
     duration: 10.5

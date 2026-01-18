@@ -31,5 +31,6 @@ MonoBehaviour:
     duration: 5
   - text: Anyway, I drank too much soda. Gonna head to the Restrooms.
     duration: 4.5
-  - text: If you find this tape next to the oven, check the men's room next.
+  - text: If you find this tape next to the oven, check the <b><color=yellow>men's
+      room</color></b> next.
     duration: 4.5
