@@ -32,6 +32,6 @@ MonoBehaviour:
   - text: I need to check the animatronics. Make sure they are actually on their
       stage.
     duration: 5.5
-  - text: "I\u2019m going to Backstage storage. I think I left my flashlight there
-      anyway."
+  - text: "I\u2019m going to <b><color=yellow>Backstage storage</color></b>. I think
+      I left my flashlight there anyway."
     duration: 5.5

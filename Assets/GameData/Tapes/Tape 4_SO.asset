@@ -30,7 +30,7 @@ MonoBehaviour:
     duration: 8.5
   - text: This isn't oil. This is blood.
     duration: 3.5
-  - text: What was that? It came from the Carousel.
+  - text: What was that? It came from the <b><color=yellow>Carousel</color></b>.
     duration: 4
   - text: I have to go look. I have to know what's moving out there.
     duration: 5

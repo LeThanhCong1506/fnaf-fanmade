@@ -39,6 +39,6 @@ MonoBehaviour:
     duration: 7
   - text: "The doors won't hold them forever. The power is draining too fast!\t"
     duration: 5
-  - text: "I need to cut the main breaker. I\u2019m going to the Storage Room. God
-      help me."
+  - text: "I need to cut the main breaker. I\u2019m going to the <b><color=yellow>Storage
+      Room</color></b>. God help me."
     duration: 7

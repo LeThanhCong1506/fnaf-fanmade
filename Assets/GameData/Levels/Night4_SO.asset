@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nightIndex: 4
   tapesRequired: 7
-  enemyRevivalHour: 3
+  enemyRevivalHour: 2
