@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="Tayx.Graphy.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Tayx.Graphy.Editor.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+</Solution>
