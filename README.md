@@ -95,8 +95,6 @@ Assets/
 ## 👨‍💻 Tác giả (Credits)
 
 * **Developer:** Lê Thành Công
-* **Instructor:** Trần Thiện Kiến Thức
-* **Project:** Đồ án tốt nghiệp khóa Game Development - Green Academy.
 
 ---
 
